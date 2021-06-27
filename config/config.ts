@@ -13,6 +13,9 @@ export default defineConfig({
   history: {
     type: 'browser',
   },
+  mock: {
+    
+  },
   locale: {
     // default zh-CN
     default: 'zh-CN',
